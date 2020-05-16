@@ -21,8 +21,45 @@
 				<false/>
 			</dict>
 		</array>
-		<key>18487720-B008-48C1-879A-C37AAEC11E12</key>
+		<key>14F8DF3A-7805-4C7F-81C6-68B9B5E1F291</key>
 		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>EA7652FB-62FB-408A-BF21-5CA453F9085F</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>8276ABB6-A48A-47EC-B4B9-B89D724373AA</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>69CFF033-3DE8-46E6-84B3-D5C48F34C988</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>2288F12C-9B58-498D-BE01-279C56ECFE20</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>AB6867DD-F3C2-4F2C-B59D-31867F58B215</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>EBA93873-52ED-4A5A-B2A9-5E7F7AF6F94B</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
 			<dict>
 				<key>destinationuid</key>
 				<string>5E72A04F-A3D2-44D5-B509-DC4FDD3AF14A</string>
@@ -57,19 +94,6 @@
 				<false/>
 			</dict>
 		</array>
-		<key>5C8C7FFC-571E-4782-A1B5-6B3E359BC5F5</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>09EB4F48-8811-4A19-A9F0-FF1AAE855F97</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
 		<key>5E72A04F-A3D2-44D5-B509-DC4FDD3AF14A</key>
 		<array>
 			<dict>
@@ -88,6 +112,44 @@
 			<dict>
 				<key>destinationuid</key>
 				<string>8C10F3CF-2BE7-48FC-A4A3-AD023BE099D4</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>69CFF033-3DE8-46E6-84B3-D5C48F34C988</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>EE19469B-9670-4173-8E86-A1D8A2DC6E33</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>81A2186A-D437-46B0-80B0-E03A22EE5281</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>09EB4F48-8811-4A19-A9F0-FF1AAE855F97</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>57C52A92-8014-453A-A6C5-3A515B435CC0</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>BDBC3B6F-FA61-4E3A-AD83-29679D7ECC72</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -139,7 +201,7 @@
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>EA7652FB-62FB-408A-BF21-5CA453F9085F</string>
+				<string>14F8DF3A-7805-4C7F-81C6-68B9B5E1F291</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -153,19 +215,6 @@
 			<dict>
 				<key>destinationuid</key>
 				<string>CA5475FE-A533-4070-8D99-4A462C236FCC</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>B4F2898B-0B9F-464A-BF2E-C5FD2D400DF6</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>BDBC3B6F-FA61-4E3A-AD83-29679D7ECC72</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -204,17 +253,7 @@
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>5C8C7FFC-571E-4782-A1B5-6B3E359BC5F5</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-			<dict>
-				<key>destinationuid</key>
-				<string>B4F2898B-0B9F-464A-BF2E-C5FD2D400DF6</string>
+				<string>81A2186A-D437-46B0-80B0-E03A22EE5281</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -228,19 +267,6 @@
 			<dict>
 				<key>destinationuid</key>
 				<string>9CFAF23D-DD43-4552-8241-65FEF1535DEC</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>D3A0A190-D7DE-4CAB-AB1E-9D350AF6D8AC</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>AB6867DD-F3C2-4F2C-B59D-31867F58B215</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -279,17 +305,7 @@
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>D3A0A190-D7DE-4CAB-AB1E-9D350AF6D8AC</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-			<dict>
-				<key>destinationuid</key>
-				<string>18487720-B008-48C1-879A-C37AAEC11E12</string>
+				<string>2288F12C-9B58-498D-BE01-279C56ECFE20</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -325,6 +341,23 @@
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>applescript</key>
+				<string>on alfred_script(q)
+	set phrase to the text returned of (display dialog "Enter your master password to authenticate with 1Password." default answer "" with icon note buttons {"Cancel", "Continue"} default button "Continue" with hidden answer)
+end alfred_script</string>
+				<key>cachescript</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.applescript</string>
+			<key>uid</key>
+			<string>8CA51378-DB76-4FCA-B6A0-6F397B3DA01E</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>lastpathcomponent</key>
 				<false/>
 				<key>onlyshowifquerypopulated</key>
@@ -340,23 +373,6 @@
 			<string>alfred.workflow.output.notification</string>
 			<key>uid</key>
 			<string>D57318BA-E920-4F83-A8BC-3CC7201B9BDC</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>applescript</key>
-				<string>on alfred_script(q)
-	set phrase to the text returned of (display dialog "Enter your master password to authenticate with 1Password." default answer "" with icon note buttons {"Cancel", "Continue"} default button "Continue" with hidden answer)
-end alfred_script</string>
-				<key>cachescript</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.applescript</string>
-			<key>uid</key>
-			<string>8CA51378-DB76-4FCA-B6A0-6F397B3DA01E</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -412,7 +428,7 @@ end alfred_script</string>
 				<key>keyword</key>
 				<string>op signout</string>
 				<key>subtext</key>
-				<string>Invalidate active session</string>
+				<string>Revoke active session key</string>
 				<key>text</key>
 				<string>Sign out</string>
 				<key>withspace</key>
@@ -472,27 +488,6 @@ end alfred_script</string>
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>lastpathcomponent</key>
-				<false/>
-				<key>onlyshowifquerypopulated</key>
-				<false/>
-				<key>removeextension</key>
-				<false/>
-				<key>text</key>
-				<string>{query}</string>
-				<key>title</key>
-				<string>Vault</string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.output.notification</string>
-			<key>uid</key>
-			<string>93B6E9F6-EF11-4F84-A956-EB4A4CE07E4F</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
 				<key>externaltriggerid</key>
 				<string>op signin</string>
 				<key>passinputasargument</key>
@@ -512,19 +507,21 @@ end alfred_script</string>
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>inputstring</key>
-				<string>{var:authenticated}</string>
-				<key>matchcasesensitive</key>
-				<true/>
-				<key>matchmode</key>
-				<integer>0</integer>
-				<key>matchstring</key>
-				<string>0</string>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<false/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>{query}</string>
+				<key>title</key>
+				<string>Vault</string>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.utility.filter</string>
+			<string>alfred.workflow.output.notification</string>
 			<key>uid</key>
-			<string>D3A0A190-D7DE-4CAB-AB1E-9D350AF6D8AC</string>
+			<string>93B6E9F6-EF11-4F84-A956-EB4A4CE07E4F</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -550,25 +547,6 @@ end alfred_script</string>
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>inputstring</key>
-				<string>{var:value}</string>
-				<key>matchcasesensitive</key>
-				<true/>
-				<key>matchmode</key>
-				<integer>0</integer>
-				<key>matchstring</key>
-				<string></string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.utility.filter</string>
-			<key>uid</key>
-			<string>5C8C7FFC-571E-4782-A1B5-6B3E359BC5F5</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
 				<key>autopaste</key>
 				<true/>
 				<key>clipboardtext</key>
@@ -581,7 +559,7 @@ end alfred_script</string>
 			<key>uid</key>
 			<string>BDBC3B6F-FA61-4E3A-AD83-29679D7ECC72</string>
 			<key>version</key>
-			<integer>2</integer>
+			<integer>3</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -619,7 +597,7 @@ end alfred_script</string>
 			<key>uid</key>
 			<string>EA7652FB-62FB-408A-BF21-5CA453F9085F</string>
 			<key>version</key>
-			<integer>2</integer>
+			<integer>3</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -628,6 +606,8 @@ end alfred_script</string>
 				<true/>
 				<key>alfredfiltersresultsmatchmode</key>
 				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<false/>
 				<key>argumenttrimmode</key>
 				<integer>0</integer>
 				<key>argumenttype</key>
@@ -666,7 +646,7 @@ end alfred_script</string>
 			<key>uid</key>
 			<string>FE4139D2-B994-4B97-BFB9-4556D397F81E</string>
 			<key>version</key>
-			<integer>2</integer>
+			<integer>3</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -690,6 +670,96 @@ end alfred_script</string>
 			<string>CA5475FE-A533-4070-8D99-4A462C236FCC</string>
 			<key>version</key>
 			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>conditions</key>
+				<array>
+					<dict>
+						<key>inputstring</key>
+						<string>{var:authenticated}</string>
+						<key>matchcasesensitive</key>
+						<true/>
+						<key>matchmode</key>
+						<integer>0</integer>
+						<key>matchstring</key>
+						<string>0</string>
+						<key>outputlabel</key>
+						<string>invalid</string>
+						<key>uid</key>
+						<string>EBA93873-52ED-4A5A-B2A9-5E7F7AF6F94B</string>
+					</dict>
+				</array>
+				<key>elselabel</key>
+				<string>valid</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.conditional</string>
+			<key>uid</key>
+			<string>2288F12C-9B58-498D-BE01-279C56ECFE20</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>conditions</key>
+				<array>
+					<dict>
+						<key>inputstring</key>
+						<string>{var:clipboard}</string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>1</integer>
+						<key>matchstring</key>
+						<string></string>
+						<key>outputlabel</key>
+						<string>value</string>
+						<key>uid</key>
+						<string>8276ABB6-A48A-47EC-B4B9-B89D724373AA</string>
+					</dict>
+				</array>
+				<key>elselabel</key>
+				<string>empty</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.conditional</string>
+			<key>uid</key>
+			<string>14F8DF3A-7805-4C7F-81C6-68B9B5E1F291</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>conditions</key>
+				<array>
+					<dict>
+						<key>inputstring</key>
+						<string>{var:value}</string>
+						<key>matchcasesensitive</key>
+						<true/>
+						<key>matchmode</key>
+						<integer>0</integer>
+						<key>matchstring</key>
+						<string></string>
+						<key>outputlabel</key>
+						<string>empty</string>
+						<key>uid</key>
+						<string>57C52A92-8014-453A-A6C5-3A515B435CC0</string>
+					</dict>
+				</array>
+				<key>elselabel</key>
+				<string>loaded</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.conditional</string>
+			<key>uid</key>
+			<string>81A2186A-D437-46B0-80B0-E03A22EE5281</string>
+			<key>version</key>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -750,44 +820,6 @@ end alfred_script</string>
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>inputstring</key>
-				<string>{var:authentication}</string>
-				<key>matchcasesensitive</key>
-				<true/>
-				<key>matchmode</key>
-				<integer>1</integer>
-				<key>matchstring</key>
-				<string>0</string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.utility.filter</string>
-			<key>uid</key>
-			<string>18487720-B008-48C1-879A-C37AAEC11E12</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>inputstring</key>
-				<string>{var:value}</string>
-				<key>matchcasesensitive</key>
-				<true/>
-				<key>matchmode</key>
-				<integer>1</integer>
-				<key>matchstring</key>
-				<string></string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.utility.filter</string>
-			<key>uid</key>
-			<string>B4F2898B-0B9F-464A-BF2E-C5FD2D400DF6</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
 				<key>seconds</key>
 				<string>0.25</string>
 			</dict>
@@ -814,6 +846,23 @@ end alfred_script</string>
 			<string>alfred.workflow.action.openurl</string>
 			<key>uid</key>
 			<string>5891F71D-233F-4868-935A-7FF47D0BA153</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>applescript</key>
+				<string>on alfred_script(q)
+  set the clipboard to ""
+end alfred_script</string>
+				<key>cachescript</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.applescript</string>
+			<key>uid</key>
+			<string>69CFF033-3DE8-46E6-84B3-D5C48F34C988</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -852,16 +901,21 @@ end alfred_script</string>
 			<key>ypos</key>
 			<integer>360</integer>
 		</dict>
-		<key>18487720-B008-48C1-879A-C37AAEC11E12</key>
+		<key>14F8DF3A-7805-4C7F-81C6-68B9B5E1F291</key>
 		<dict>
-			<key>colorindex</key>
-			<integer>4</integer>
-			<key>note</key>
-			<string>Valid authentication</string>
 			<key>xpos</key>
-			<integer>360</integer>
+			<integer>1400</integer>
 			<key>ypos</key>
-			<integer>480</integer>
+			<integer>470</integer>
+		</dict>
+		<key>2288F12C-9B58-498D-BE01-279C56ECFE20</key>
+		<dict>
+			<key>note</key>
+			<string>Authentication</string>
+			<key>xpos</key>
+			<integer>350</integer>
+			<key>ypos</key>
+			<integer>470</integer>
 		</dict>
 		<key>2F8B9BED-6351-4C00-B8E7-D33D8E9E17A6</key>
 		<dict>
@@ -873,7 +927,7 @@ end alfred_script</string>
 		<key>49A1D4B4-D779-4E5A-9A7C-78019D3AB808</key>
 		<dict>
 			<key>note</key>
-			<string>Authenticate with auth.py</string>
+			<string>Sign in with auth.py</string>
 			<key>xpos</key>
 			<integer>470</integer>
 			<key>ypos</key>
@@ -885,17 +939,6 @@ end alfred_script</string>
 			<integer>620</integer>
 			<key>ypos</key>
 			<integer>610</integer>
-		</dict>
-		<key>5C8C7FFC-571E-4782-A1B5-6B3E359BC5F5</key>
-		<dict>
-			<key>colorindex</key>
-			<integer>1</integer>
-			<key>note</key>
-			<string>Invalid value</string>
-			<key>xpos</key>
-			<integer>960</integer>
-			<key>ypos</key>
-			<integer>360</integer>
 		</dict>
 		<key>5E72A04F-A3D2-44D5-B509-DC4FDD3AF14A</key>
 		<dict>
@@ -912,6 +955,24 @@ end alfred_script</string>
 			<integer>20</integer>
 			<key>ypos</key>
 			<integer>20</integer>
+		</dict>
+		<key>69CFF033-3DE8-46E6-84B3-D5C48F34C988</key>
+		<dict>
+			<key>note</key>
+			<string>Erase clipboard contents</string>
+			<key>xpos</key>
+			<integer>1520</integer>
+			<key>ypos</key>
+			<integer>610</integer>
+		</dict>
+		<key>81A2186A-D437-46B0-80B0-E03A22EE5281</key>
+		<dict>
+			<key>note</key>
+			<string>Data</string>
+			<key>xpos</key>
+			<integer>950</integer>
+			<key>ypos</key>
+			<integer>470</integer>
 		</dict>
 		<key>8C10F3CF-2BE7-48FC-A4A3-AD023BE099D4</key>
 		<dict>
@@ -939,14 +1000,14 @@ end alfred_script</string>
 		<key>961462A5-0A69-49A4-B0F4-61E6807682EB</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1670</integer>
+			<integer>1820</integer>
 			<key>ypos</key>
 			<integer>450</integer>
 		</dict>
 		<key>9CFAF23D-DD43-4552-8241-65FEF1535DEC</key>
 		<dict>
 			<key>note</key>
-			<string>Invalidate with auth.py</string>
+			<string>Sign out with auth.py</string>
 			<key>xpos</key>
 			<integer>320</integer>
 			<key>ypos</key>
@@ -972,17 +1033,6 @@ end alfred_script</string>
 			<string>Cache clipboard contents</string>
 			<key>xpos</key>
 			<integer>660</integer>
-			<key>ypos</key>
-			<integer>480</integer>
-		</dict>
-		<key>B4F2898B-0B9F-464A-BF2E-C5FD2D400DF6</key>
-		<dict>
-			<key>colorindex</key>
-			<integer>4</integer>
-			<key>note</key>
-			<string>Valid value</string>
-			<key>xpos</key>
-			<integer>960</integer>
 			<key>ypos</key>
 			<integer>480</integer>
 		</dict>
@@ -1020,17 +1070,6 @@ end alfred_script</string>
 			<key>ypos</key>
 			<integer>180</integer>
 		</dict>
-		<key>D3A0A190-D7DE-4CAB-AB1E-9D350AF6D8AC</key>
-		<dict>
-			<key>colorindex</key>
-			<integer>1</integer>
-			<key>note</key>
-			<string>Invalid authentication</string>
-			<key>xpos</key>
-			<integer>360</integer>
-			<key>ypos</key>
-			<integer>360</integer>
-		</dict>
 		<key>D57318BA-E920-4F83-A8BC-3CC7201B9BDC</key>
 		<dict>
 			<key>xpos</key>
@@ -1043,7 +1082,7 @@ end alfred_script</string>
 			<key>note</key>
 			<string>Restore clipboard contents</string>
 			<key>xpos</key>
-			<integer>1370</integer>
+			<integer>1520</integer>
 			<key>ypos</key>
 			<integer>450</integer>
 		</dict>
@@ -1052,7 +1091,7 @@ end alfred_script</string>
 			<key>note</key>
 			<string>Verbose</string>
 			<key>xpos</key>
-			<integer>1560</integer>
+			<integer>1710</integer>
 			<key>ypos</key>
 			<integer>480</integer>
 		</dict>
@@ -1073,7 +1112,7 @@ end alfred_script</string>
 		<key>op</key>
 		<string>/usr/local/bin/op</string>
 		<key>subdomain</key>
-		<string></string>
+		<string>my</string>
 		<key>verbose</key>
 		<string>false</string>
 	</dict>

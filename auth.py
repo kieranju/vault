@@ -17,7 +17,7 @@ def sign_in(args):
 	password = args[3]
 	
 	if not password:
-		print('Authentication failed due to empty password')
+		print('Sign in failed due to empty password')
 		return
 	
 	session_key = None
@@ -34,16 +34,16 @@ def sign_in(args):
 		# Store 1Password session key
 		wf.store_data('session_key', session_key)
 		if wf.stored_data('session_key') is None:
-			print('Authentication successful, but failed to store session key')
+			print('Signed in, but failed to store session key')
 			return
-		print('Authentication successful')
+		print('Signed in')
 		return
 	
 	if return_code is 145:
-		print('Authentication failed due to incorrect password')
+		print('Sign in failed due to incorrect password')
 		return
 	
-	print('Authentication failed due to unknown error')
+	print('Sign in failed due to unknown error')
 
 # Invalidate authentication with 1Password, clearing it from the store
 def sign_out(args):
@@ -65,21 +65,21 @@ def sign_out(args):
 		wf.store_data('session_key', None)
 		wf.cache_data('items', None)
 		if wf.stored_data('session_key') is not None:
-			print('Invalidation successful, but failed to clear session key')
+			print('Signed out, but failed to clear session key')
 			return
-		print('Invalidation successful')
+		print('Signed out')
 		return
 	
 	if return_code is 1:
 		wf.store_data('session_key', None)
 		wf.cache_data('items', None)
 		if wf.stored_data('session_key') is not None:
-			print('Invalidation successful due to expired session, but failed to clear session key')
+			print('Signed out due to expired session, but failed to clear session key')
 			return
-		print('Invalidation successful due to expired session')
+		print('Signed out due to expired session')
 		return
 	
-	print('Invalidation failed due to unknown error')
+	print('Sign out failed due to unknown error')
 		
 	log.debug(return_code)
 	
