@@ -28,9 +28,7 @@ def main(wf):
 	item_raw = None
 	return_code = 0
 	try:
-		prompt = Popen(['echo', session_key], stdout=PIPE)
-		command_output = Popen([op, 'get', 'item', uuid], stdin=prompt.stdout, stdout=PIPE)
-		prompt.stdout.close()
+		command_output = Popen([op, 'get', 'item', uuid, '--session', session_key], stdout=PIPE)
 		item_raw = run_command([jq, '-a'], stdin=command_output.stdout)
 		command_output.wait()
 	except CalledProcessError as e:

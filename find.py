@@ -104,9 +104,7 @@ def main(wf):
 	# Issue bash command to request list of items from 1Password
 	return_code = 0
 	try:
-		prompt = Popen(['echo', session_key], stdout=PIPE)
-		command_output = Popen([op, 'list', 'items'], stdin=prompt.stdout, stdout=PIPE)
-		prompt.stdout.close()
+		command_output = Popen([op, 'list', 'items', '--session', session_key], stdout=PIPE)
 		items_raw = run_command([jq, '-a'], stdin=command_output.stdout)
 		command_output.wait()
 	except CalledProcessError as e:
